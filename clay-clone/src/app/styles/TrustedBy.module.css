@@ -1,0 +1,17 @@
+.trustedByContainer {
+    padding: 1rem;
+    background-color: #000000;
+    text-align: center;
+  }
+  
+  .trustedByTitle {
+    color: #6B7280;
+    font-weight: 500;
+  }
+  
+  .companyLogo {
+    height: 32px;
+    width: auto;
+    margin-bottom: 1rem;
+  }
+  

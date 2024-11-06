@@ -1,0 +1,24 @@
+.headerContainer {
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .headerLogo {
+    height: 32px;
+    width: auto;
+  }
+  
+  .headerNavLink {
+    color: #4B5563;
+    transition: color 0.3s;
+  }
+  
+  .headerNavLink:hover {
+    color: #1F2937;
+  }
+  
+  .headerButton {
+    background-color: #000;
+    color: #FFF;
+  }
+  
